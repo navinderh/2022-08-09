@@ -1,0 +1,13 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas 
+  - matplotlib
+  - numpy
+  - rasterio
+  - rasterio.plot
+  - shapely.geometry
+  - shapely
+  
